@@ -1,0 +1,11 @@
+2025-06-27 17:26:47,963 - StandClient - INFO - [ping=46] - Subscribed to item 44401
+2025-06-27 17:26:48,013 - StandClient - INFO - [ping=46] - Subscribed to item 44003
+2025-06-27 17:26:48,063 - StandClient - INFO - [ping=46] - Subscribed to item 84403
+2025-06-27 17:26:48,116 - StandClient - INFO - [ping=46] - Subscribed to item 220011
+2025-06-27 19:51:28,277 - StandClient - CRITICAL - [ping=61] - Connection closed by server!
+2025-06-27 19:51:28,282 - StandClient - INFO - [ping=61] - Reconnecting!
+2025-06-27 19:51:28,643 - StandClient - INFO - [ping=61] - Reconnected!
+2025-06-27 19:51:28,739 - StandClient - INFO - [ping=47] - Subscribed to item 44401
+2025-06-27 19:51:28,786 - StandClient - INFO - [ping=47] - Subscribed to item 44003
+2025-06-27 19:51:28,851 - StandClient - INFO - [ping=47] - Subscribed to item 84403
+2025-06-27 19:51:28,899 - StandClient - INFO - [ping=47] - Subscribed to item 220011
